@@ -1,0 +1,27 @@
+2024-09-15 20:36:06,262 INFO o.e.Main [main] Gepetto
+2024-09-15 20:36:06,267 INFO o.e.Main [main] name
+2024-09-15 20:36:06,269 INFO o.e.Main [main] class java.lang.String
+2024-09-15 20:36:06,269 INFO o.e.Main [main] 2
+2024-09-15 20:36:06,269 INFO o.e.Main [main] age
+2024-09-15 20:36:06,269 INFO o.e.Main [main] int
+2024-09-15 20:36:06,270 INFO o.e.Main [main] 2
+2024-09-15 20:36:06,270 INFO o.e.Main [main] printName
+2024-09-15 20:36:06,270 INFO o.e.Main [main] setAge
+2024-09-15 20:36:06,270 INFO o.e.Main [main] getAge
+2024-09-15 20:36:06,270 INFO o.e.Main [main] getName
+2024-09-15 20:36:06,279 INFO o.e.Main [main] setName
+2024-09-15 20:36:06,279 INFO o.e.Main [main] 2
+2024-09-15 20:36:06,280 INFO o.e.Main [main] arg0
+2024-09-15 20:36:06,280 INFO o.e.Main [main] class java.lang.String
+2024-09-15 20:36:06,280 INFO o.e.Main [main] arg1
+2024-09-15 20:36:06,280 INFO o.e.Main [main] int
+2024-09-15 20:36:06,281 INFO o.e.Main [main] 5 pro
+2024-09-15 20:36:06,281 INFO o.e.Main [main] Switch
+2024-09-15 20:36:06,281 INFO o.e.Main [main] X
+2024-09-15 20:36:06,282 INFO o.e.Main [main] our products : [Playstation, Nintendo, Xbox]
+2024-09-15 20:36:06,282 INFO o.e.Main [main] [27, 25]
+2024-09-15 20:36:06,283 INFO o.e.Main [main] Jackson
+2024-09-15 20:36:06,283 INFO o.e.Main [main] Mickey
+2024-09-15 20:36:06,283 INFO o.e.Main [main] Oren
+2024-09-15 20:36:06,284 INFO o.e.Main [main] 68
+2024-09-15 20:36:06,285 INFO o.e.Main [main] World

@@ -1,0 +1,20 @@
+2024-09-15 20:23:06,380 INFO o.e.Main [main] Gepetto
+2024-09-15 20:23:06,387 INFO o.e.Main [main] name
+2024-09-15 20:23:06,387 INFO o.e.Main [main] class java.lang.String
+2024-09-15 20:23:06,388 INFO o.e.Main [main] 2
+2024-09-15 20:23:06,388 INFO o.e.Main [main] age
+2024-09-15 20:23:06,388 INFO o.e.Main [main] int
+2024-09-15 20:23:06,388 INFO o.e.Main [main] 2
+2024-09-15 20:23:06,389 INFO o.e.Main [main] getName
+2024-09-15 20:23:06,389 INFO o.e.Main [main] setName
+2024-09-15 20:23:06,389 INFO o.e.Main [main] setAge
+2024-09-15 20:23:06,389 INFO o.e.Main [main] getAge
+2024-09-15 20:23:06,399 INFO o.e.Main [main] printName
+2024-09-15 20:23:06,400 INFO o.e.Main [main] 2
+2024-09-15 20:23:06,400 INFO o.e.Main [main] arg0
+2024-09-15 20:23:06,401 INFO o.e.Main [main] class java.lang.String
+2024-09-15 20:23:06,401 INFO o.e.Main [main] arg1
+2024-09-15 20:23:06,401 INFO o.e.Main [main] int
+2024-09-15 20:23:06,402 INFO o.e.Main [main] 5 pro
+2024-09-15 20:23:06,402 INFO o.e.Main [main] Switch
+2024-09-15 20:23:06,402 INFO o.e.Main [main] X

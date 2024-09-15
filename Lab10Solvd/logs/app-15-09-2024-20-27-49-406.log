@@ -1,0 +1,24 @@
+2024-09-15 20:27:49,530 INFO o.e.Main [main] Gepetto
+2024-09-15 20:27:49,536 INFO o.e.Main [main] name
+2024-09-15 20:27:49,537 INFO o.e.Main [main] class java.lang.String
+2024-09-15 20:27:49,537 INFO o.e.Main [main] 2
+2024-09-15 20:27:49,537 INFO o.e.Main [main] age
+2024-09-15 20:27:49,537 INFO o.e.Main [main] int
+2024-09-15 20:27:49,537 INFO o.e.Main [main] 2
+2024-09-15 20:27:49,538 INFO o.e.Main [main] getName
+2024-09-15 20:27:49,538 INFO o.e.Main [main] setName
+2024-09-15 20:27:49,538 INFO o.e.Main [main] setAge
+2024-09-15 20:27:49,538 INFO o.e.Main [main] printName
+2024-09-15 20:27:49,538 INFO o.e.Main [main] getAge
+2024-09-15 20:27:49,539 INFO o.e.Main [main] 2
+2024-09-15 20:27:49,539 INFO o.e.Main [main] arg0
+2024-09-15 20:27:49,539 INFO o.e.Main [main] class java.lang.String
+2024-09-15 20:27:49,540 INFO o.e.Main [main] arg1
+2024-09-15 20:27:49,540 INFO o.e.Main [main] int
+2024-09-15 20:27:49,541 INFO o.e.Main [main] 5 pro
+2024-09-15 20:27:49,541 INFO o.e.Main [main] Switch
+2024-09-15 20:27:49,541 INFO o.e.Main [main] X
+2024-09-15 20:27:49,542 INFO o.e.Main [main] [27, 25]
+2024-09-15 20:27:49,542 INFO o.e.Main [main] Jackson
+2024-09-15 20:27:49,542 INFO o.e.Main [main] Mickey
+2024-09-15 20:27:49,543 INFO o.e.Main [main] Oren
