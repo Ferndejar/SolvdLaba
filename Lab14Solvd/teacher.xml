@@ -1,0 +1,17 @@
+<teachers>
+    <teacher id = "1">
+        <firstName>Larry</firstName>
+        <lastName>Johnson</lastName>
+        <age>28</age>
+    </teacher>
+    <teacher id = "2">
+        <firstName>Steve</firstName>
+        <lastName>Motokov</lastName>
+        <age>33</age>
+    </teacher>
+    <teacher id = "3">
+        <firstName>Beata</firstName>
+        <lastName>Kowalska</lastName>
+        <age>41</age>
+    </teacher>
+</teachers>
