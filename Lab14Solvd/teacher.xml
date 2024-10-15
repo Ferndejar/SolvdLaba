@@ -3,15 +3,27 @@
         <firstName>Larry</firstName>
         <lastName>Johnson</lastName>
         <age>28</age>
+        <contact>
+            <email>larry.johnshon@gmail.com</email>
+            <phone>123671823</phone>
+        </contact>
     </teacher>
     <teacher id = "2">
         <firstName>Steve</firstName>
         <lastName>Motokov</lastName>
         <age>33</age>
+        <contact>
+            <email>steve.motokov@gmail.com</email>
+            <phone>672671714</phone>
+        </contact>
     </teacher>
     <teacher id = "3">
         <firstName>Beata</firstName>
         <lastName>Kowalska</lastName>
         <age>41</age>
+        <contact>
+            <email>beata.kowalska@gmail.com</email>
+            <phone>665665324</phone>
+        </contact>
     </teacher>
 </teachers>

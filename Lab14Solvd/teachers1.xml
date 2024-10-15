@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<teachers>
+    <teacher id="3">
+        <contact>
+            <email>jonathan.frilla@yahoo.com</email>
+            <phone>724542324</phone>
+        </contact>
+        <firstName>Jonathan</firstName>
+        <lastName>Frilla</lastName>
+        <age>24</age>
+        <date>2024/października/15</date>
+    </teacher>
+    <teacher id="4">
+        <contact>
+            <email>tatiana.molotov@yahoo.com</email>
+            <phone>793543221</phone>
+        </contact>
+        <firstName>Tatiana</firstName>
+        <lastName>Molotov</lastName>
+        <age>29</age>
+        <date>2024/października/15</date>
+    </teacher>
+</teachers>
