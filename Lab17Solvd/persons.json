@@ -1,0 +1,24 @@
+{
+  "firstName": "Ivan",
+  "lastName": "Korak",
+  "age": 18,
+  "car": {
+    "brand": "Bmw",
+    "model": "M3"
+  },
+  "animal": {
+    "species": "Dog",
+    "name": "Dexter"
+  },
+  "contact": {
+    "street": "Pilsudskiego 23",
+    "city": "Warsaw",
+    "phone": "456 357 235"
+  },
+  "job": {
+    "name": "Software Tester"
+  },
+  "salary": {
+    "valueOfSalary": "6800"
+  }
+}
