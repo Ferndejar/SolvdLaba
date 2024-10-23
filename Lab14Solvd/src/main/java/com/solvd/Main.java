@@ -2,7 +2,9 @@ package com.solvd;
 
 import com.mysql.cj.x.protobuf.MysqlxDatatypes;
 import com.solvd.dao.jdbc.ContactInfoDao;
+import com.solvd.dao.mybatis.TeacherDAO;
 import com.solvd.model.ContactInfo;
+import com.solvd.model.Teacher;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -24,5 +26,10 @@ public class Main {
         for  (int i = 0; i<7; i++) {
             executorService.execute(ownThread);
         }
+
+        TeacherDAO teacherDAO= new TeacherDAO();
+        Teacher student = teacherDAO.getEntityById(2);
+        System.out.println(student);
+
     }
 }
