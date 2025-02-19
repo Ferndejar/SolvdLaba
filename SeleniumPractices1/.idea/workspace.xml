@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a39f178b-d89a-4539-9e3a-97c252163248" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Observer/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Decorator/Coffe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Decorator/CoffeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Decorator/DecoratorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Decorator/SimpleCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Decorator/Sugar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Decorator/WhippedCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Facade/Amplifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Facade/DVDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Facade/FacadeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Facade/HomeTheaterFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Facade/Lights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Facade/Projector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Proxy/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SolvdSOLID/src/main/java/com/solvd/Proxy/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
