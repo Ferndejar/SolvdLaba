@@ -1,6 +1,6 @@
-[2025-03-12 10:14:45] [1] [WARN] Reporting disabled: using no op test run registrar
-[2025-03-12 10:14:45] [1] [INFO] TEST [CarinaAPITests - testAddNewProduct] STARTED at [23:14:45 2025-03-12]
-[2025-03-12 10:14:47] [1] [INFO] Request method:	POST
+[2025-03-13 01:37:25] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-03-13 01:37:25] [1] [INFO] TEST [CarinaAPITests - testAddNewProduct] STARTED at [02:37:25 2025-03-13]
+[2025-03-13 01:37:26] [1] [INFO] Request method:	POST
 Request URI:	https://fakestoreapi.com/products
 Request params:	<none>
 Query params:	<none>
@@ -19,7 +19,7 @@ Body:
     "category": "electronics"
 }
 HTTP/1.1 200 OK
-Date: Wed, 12 Mar 2025 22:14:51 GMT
+Date: Thu, 13 Mar 2025 01:37:29 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -27,13 +27,13 @@ access-control-allow-origin: *
 etag: W/"94-J+zt8l9fPKy8RwUH1db25R7UG5U"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Do9HvWU3vLTRM0qWwJT%2BMoKLxWXf92eMbKGnjwFyujGof3iYQJBZcNjqI87PpHtJS5QZVu6pRyRs1pslU4QExr0vxTKgTBNyZPfsjxWGuMhyNUHnjsTKi1R5mrXnMu9xg8oF"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=aGYITJEpYvhBumqOrWYY2dqS4yviQP4tttKbFUilotdierMKdC4f1jOReL%2FeqDJGsS34LIre2c5n9p8Ifp4GBbpIYUMQYSfZFi6QkWBT%2Bm%2BXdrkkFI6G8SoPAu5CkOc1%2B%2BuQ"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 91f6a598aee6ef99-WAW
+CF-RAY: 91f7ce718970eec3-WAW
 Content-Encoding: gzip
 alt-svc: h3=":443"; ma=86400
-server-timing: cfL4;desc="?proto=TCP&rtt=20306&min_rtt=19960&rtt_var=7732&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3127&recv_bytes=996&delivery_rate=212224&cwnd=249&unsent_bytes=0&cid=685e85610381a79d&ts=215&x=0"
+server-timing: cfL4;desc="?proto=TCP&rtt=3875&min_rtt=3507&rtt_var=1578&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3127&recv_bytes=996&delivery_rate=1207869&cwnd=252&unsent_bytes=0&cid=911030cff5478185&ts=137&x=0"
 
 {
     "id": 21,
@@ -44,4 +44,4 @@ server-timing: cfL4;desc="?proto=TCP&rtt=20306&min_rtt=19960&rtt_var=7732&sent=7
     "category": "electronics"
 }
 
-[2025-03-12 10:14:48] [1] [INFO] TEST [CarinaAPITests - testAddNewProduct] PASSED at [23:14:48 2025-03-12]
+[2025-03-13 01:37:26] [1] [INFO] TEST [CarinaAPITests - testAddNewProduct] PASSED at [02:37:26 2025-03-13]

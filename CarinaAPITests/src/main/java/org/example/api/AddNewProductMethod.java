@@ -27,8 +27,6 @@ public class AddNewProductMethod extends AbstractApiMethodV2 {
         addProperty("image", "https://via.placeholder.com/150");
         addProperty("category", "electronics");
     }
-
-
     @Override
     public Response callAPI() {
         return super.callAPI();

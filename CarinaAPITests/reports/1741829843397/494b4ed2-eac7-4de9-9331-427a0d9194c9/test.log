@@ -1,6 +1,6 @@
-[2025-03-12 10:14:49] [1] [WARN] Reporting disabled: using no op test run registrar
-[2025-03-12 10:14:49] [1] [INFO] TEST [CarinaAPITests - testGetLimitedProducts] STARTED at [23:14:49 2025-03-12]
-[2025-03-12 10:14:49] [1] [INFO] Request method:	GET
+[2025-03-13 01:37:27] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-03-13 01:37:27] [1] [INFO] TEST [CarinaAPITests - testGetLimitedProducts] STARTED at [02:37:27 2025-03-13]
+[2025-03-13 01:37:27] [1] [INFO] Request method:	GET
 Request URI:	https://fakestoreapi.com/products?limit=5
 Request params:	<none>
 Query params:	<none>
@@ -12,7 +12,7 @@ Headers:		Accept=*/*
 				Content-Type=application/json
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Wed, 12 Mar 2025 22:14:53 GMT
+Date: Thu, 13 Mar 2025 01:37:30 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -20,13 +20,13 @@ access-control-allow-origin: *
 etag: W/"901-RZCdFEZQ+j7q2G9bMJOMuLfz40Y"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=8LPLB6n4KBzY4qHgzwi2aWlTrv33tbawlZXHp9sw%2FII%2BSmW%2FjDcVJvls58SZzDV1Et0ENEvAOvdfRjBpg9o9qiU3Eeq3lJU3lJxsAbiYwchMDVXfg%2BzhIJ1f5DdkRfpEvz73"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=5ltZCNhk5M8jQe9bNX3JbThUguLxMkd%2BUSDTXP%2Fw1qrBJV1ea7jmCbWr%2FWZN4EWDQurJy5Sb5cfGlVb3RwLJrnfjPcWMQpp%2BfDKeG%2Fv7PjNX5knEMF07ZRNoCcXg6G%2BbDrm7"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 91f6a5a5c9f570ba-WAW
+CF-RAY: 91f7ce7749ecb5fa-WAW
 Content-Encoding: gzip
 alt-svc: h3=":443"; ma=86400
-server-timing: cfL4;desc="?proto=TCP&rtt=20286&min_rtt=20042&rtt_var=7690&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3127&recv_bytes=797&delivery_rate=211356&cwnd=252&unsent_bytes=0&cid=125c7dece3cf7677&ts=84&x=0"
+server-timing: cfL4;desc="?proto=TCP&rtt=4003&min_rtt=3450&rtt_var=1688&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3127&recv_bytes=797&delivery_rate=1227826&cwnd=252&unsent_bytes=0&cid=817d6b8feea5032f&ts=53&x=0"
 
 [
     {
@@ -91,4 +91,4 @@ server-timing: cfL4;desc="?proto=TCP&rtt=20286&min_rtt=20042&rtt_var=7690&sent=5
     }
 ]
 
-[2025-03-12 10:14:49] [1] [INFO] TEST [CarinaAPITests - testGetLimitedProducts] PASSED at [23:14:49 2025-03-12]
+[2025-03-13 01:37:27] [1] [INFO] TEST [CarinaAPITests - testGetLimitedProducts] PASSED at [02:37:27 2025-03-13]

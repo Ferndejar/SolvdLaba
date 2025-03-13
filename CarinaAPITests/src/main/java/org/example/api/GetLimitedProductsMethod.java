@@ -16,7 +16,6 @@ public class GetLimitedProductsMethod extends AbstractApiMethodV2 {
         replaceUrlPlaceholder("limit", String.valueOf(limit));
     }
 
-    // Override callAPI() to ensure execution
     @Override
     public Response callAPI() {
         return super.callAPI();
