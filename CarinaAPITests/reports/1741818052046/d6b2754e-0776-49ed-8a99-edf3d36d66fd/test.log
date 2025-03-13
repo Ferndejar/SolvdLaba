@@ -1,0 +1,47 @@
+[2025-03-12 10:20:55] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-03-12 10:20:55] [1] [INFO] TEST [CarinaAPITests - testAddNewProduct] STARTED at [23:20:55 2025-03-12]
+[2025-03-12 10:20:58] [1] [INFO] Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Body:
+{
+    "title": "Test Product",
+    "price": ",13.5",
+    "description": "Test description",
+    "image": "https://via.placeholder.com/150",
+    "category": "electronics"
+}
+HTTP/1.1 200 OK
+Date: Wed, 12 Mar 2025 22:21:01 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+access-control-allow-origin: *
+etag: W/"94-J+zt8l9fPKy8RwUH1db25R7UG5U"
+x-powered-by: Express
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=3Bn2SaA0h%2B5SLVZAXaKolaBS7Jewbn11JDFFvjJ0lyoYAYrrdtRgmgLqoRBR%2Fg6dTBe3%2F6FW%2BoYJcOpqENYOOwq7C8GufJEOoT9gtBN8%2BN1Z%2BsJNkr5PeoUuZMW9RBI9Ity%2B"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91f6aea608b1b194-WAW
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=3779&min_rtt=3530&rtt_var=1502&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3127&recv_bytes=996&delivery_rate=1200000&cwnd=252&unsent_bytes=0&cid=9fba102d904e365c&ts=294&x=0"
+
+{
+    "id": 21,
+    "title": "Test Product",
+    "price": ",13.5",
+    "description": "Test description",
+    "image": "https://via.placeholder.com/150",
+    "category": "electronics"
+}
+
+[2025-03-12 10:20:59] [1] [INFO] TEST [CarinaAPITests - testAddNewProduct] PASSED at [23:20:59 2025-03-12]

@@ -1,0 +1,20 @@
+[2025-03-12 10:25:14] [1] [INFO] 
+=========== WebDriver configuration ===========
+-------------- Driver capabilities ------------
+===============================================
+
+[2025-03-12 10:25:14] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-03-12 10:25:17] [1] [INFO] [TestNG] Running:
+  C:\Users\EN\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[2025-03-12 10:25:17] [1] [INFO] Set thread-count=1
+[2025-03-12 10:25:17] [1] [INFO] Set data-provider-thread-count=1
+[2025-03-12 10:25:17] [1] [INFO] CARINA_CORE_VERSION: 1.3.0
+[2025-03-12 10:25:22] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2025-03-12 10:25:22] [1] [INFO] RESULT #1: TEST [CarinaAPITests - testAddNewProduct] PASS [log=file://C:\SolvdLabaCwiczenia\CarinaAPITests\reports\1741818314335/95ea3a40-4c1d-40ac-8b36-8301b13b52ad/test.log]
+[2025-03-12 10:25:22] [1] [INFO] RESULT #2: TEST [CarinaAPITests - testDeleteProduct] FAIL [log=file://C:\SolvdLabaCwiczenia\CarinaAPITests\reports\1741818314335/036871a2-7c7f-48fe-8499-f1aa01e59618/test.log]
+[2025-03-12 10:25:22] [1] [INFO] RESULT #3: TEST [CarinaAPITests - testGetAllProducts] PASS [log=file://C:\SolvdLabaCwiczenia\CarinaAPITests\reports\1741818314335/e1f7de27-30a8-44ba-865a-f8b58f13b007/test.log]
+[2025-03-12 10:25:22] [1] [INFO] RESULT #4: TEST [CarinaAPITests - testGetSingleProduct] PASS [log=file://C:\SolvdLabaCwiczenia\CarinaAPITests\reports\1741818314335/8acd3a1d-d107-4b7a-b566-2c3b41fd0053/test.log]
+[2025-03-12 10:25:22] [1] [INFO] RESULT #5: TEST [CarinaAPITests - testUpdateProduct] PASS [log=file://C:\SolvdLabaCwiczenia\CarinaAPITests\reports\1741818314335/af752c61-8ca3-4be3-8882-c764e54b945a/test.log]
+[2025-03-12 10:25:22] [1] [INFO] RESULT #6: TEST [CarinaAPITests - testVerifyProductInCart] PASS [log=file://C:\SolvdLabaCwiczenia\CarinaAPITests\reports\1741818314335/8d2336c6-d25b-4b01-978f-869423895039/test.log]
+[2025-03-12 10:25:22] [1] [INFO] RESULT #7: TEST [CarinaAPITests - testGetLimitedProducts] PASS [log=file://C:\SolvdLabaCwiczenia\CarinaAPITests\reports\1741818314335/57db33de-bd7e-4057-847a-0f88d33a964f/test.log]

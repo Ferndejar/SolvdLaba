@@ -1,0 +1,32 @@
+[2025-03-12 10:32:51] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-03-12 10:32:51] [1] [INFO] TEST [CarinaAPITests - testDeleteProduct] STARTED at [23:32:51 2025-03-12]
+[2025-03-12 10:32:52] [1] [INFO] Request method:	DELETE
+Request URI:	https://fakestoreapi.com/products/21
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 12 Mar 2025 22:32:55 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 4
+Connection: keep-alive
+access-control-allow-origin: *
+etag: W/"4-K+iMpCQsduglOsYkdIUQZQMtaDM"
+x-powered-by: Express
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=g1RFHFbqTcS6izAeUYAR1tII8GERYAAPL%2FbPsmSFd0%2Fxs6EiZnYPsSkZ11JHvKDGZyjTo6LM%2FWBywzvQUqeh1EelrzBnxpqj8abCagxLvGOlbmm99n8I%2BcfBoUuFbn%2B3slbJ"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91f6c010d9caeeb2-WAW
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=6426&min_rtt=3289&rtt_var=3442&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3127&recv_bytes=795&delivery_rate=1287929&cwnd=252&unsent_bytes=0&cid=cecf4c63a61eabff&ts=164&x=0"
+
+null
+
+[2025-03-12 10:32:52] [1] [INFO] TEST [CarinaAPITests - testDeleteProduct] PASSED at [23:32:52 2025-03-12]

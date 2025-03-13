@@ -1,0 +1,44 @@
+[2025-03-12 10:25:21] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-03-12 10:25:21] [1] [INFO] TEST [CarinaAPITests - testGetSingleProduct] STARTED at [23:25:21 2025-03-12]
+[2025-03-12 10:25:22] [1] [INFO] Request method:	GET
+Request URI:	https://fakestoreapi.com/products/1
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 12 Mar 2025 22:25:25 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+access-control-allow-origin: *
+etag: W/"16c-MMdrqY6N0sTiefLdsgtBej9eunY"
+x-powered-by: Express
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=lBzpCiVIFn0O3ZNQjTSM8ce6pWQfkewl0oGYEIzahfrobKJJ0%2BSUNRP2UEH4S6D299bOH7VBMQXnKmjvLzLc%2FtspQ%2FThFXLnFi%2FgVlFwpHGFpokgwv7jdwijUu36fPo5LSrr"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91f6b5152d39bbe1-WAW
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=7395&min_rtt=3590&rtt_var=3981&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3126&recv_bytes=791&delivery_rate=1179944&cwnd=252&unsent_bytes=0&cid=5ca4806154890ca9&ts=61&x=0"
+
+{
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": {
+        "rate": 3.9,
+        "count": 120
+    }
+}
+
+[2025-03-12 10:25:22] [1] [INFO] TEST [CarinaAPITests - testGetSingleProduct] PASSED at [23:25:22 2025-03-12]

@@ -1,0 +1,52 @@
+[2025-03-12 10:21:00] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-03-12 10:21:00] [1] [INFO] TEST [CarinaAPITests - testVerifyProductInCart] STARTED at [23:21:00 2025-03-12]
+[2025-03-12 10:21:00] [1] [INFO] Request method:	GET
+Request URI:	https://fakestoreapi.com/carts/1
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 12 Mar 2025 22:21:03 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+access-control-allow-origin: *
+etag: W/"a1-wvAyaNKAHffOoZd5/I4wHuNFvSs"
+x-powered-by: Express
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=69hkAQ4DzUJyefDtD%2F%2F7b77nCCbMHkvJD6cXhq2hUuJDE7BInRYbY2YhtujS16SQRMtKYOApUI6X8Sy65n%2BDaAt3uWAIKGzzoDFtohuPMFD5voJejFadyVkd5k%2FSiXUu6ppY"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91f6aeb23fc7020f-WAW
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=4777&min_rtt=3333&rtt_var=2281&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3126&recv_bytes=788&delivery_rate=1270927&cwnd=233&unsent_bytes=0&cid=a71f3e1c7b000df2&ts=156&x=0"
+
+{
+    "id": 1,
+    "userId": 1,
+    "date": "2020-03-02T00:00:00.000Z",
+    "products": [
+        {
+            "productId": 1,
+            "quantity": 4
+        },
+        {
+            "productId": 2,
+            "quantity": 1
+        },
+        {
+            "productId": 3,
+            "quantity": 6
+        }
+    ],
+    "__v": 0
+}
+
+[2025-03-12 10:21:00] [1] [INFO] TEST [CarinaAPITests - testVerifyProductInCart] PASSED at [23:21:00 2025-03-12]
